@@ -1,3 +1,7 @@
+## 2.0.1 (2024-10-18)
+
+- Upgraded apt module
+
 ## 2.0.0 (2023-08-14)
 
 **ATTENTION:** This major release removes support for Graylog versions < 5.0
